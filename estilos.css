@@ -1,0 +1,27 @@
+*{
+    font-family: 'Lucida Sans Unicode'
+}
+h1 {
+text-align: center;
+}
+h2{
+border-bottom-width: 1px;
+color: rgba(89, 180, 89, 0.767);
+border-bottom:solid rgba(223, 220, 220, 0.836) ;
+}
+h3{
+  color:rgb(202, 159, 80) ;
+}
+div{
+    
+  background-color: white;
+  border: 3px solid rgb(224, 221, 221);
+  padding: 2%;
+  margin: 2% 2% 2% 2%;
+}
+
+p{
+text-align: justify;
+}
+
+}
